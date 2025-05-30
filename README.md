@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AltoMantis
-- 👀 I’m interested in Software devlopment
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning NestJS
 
 
